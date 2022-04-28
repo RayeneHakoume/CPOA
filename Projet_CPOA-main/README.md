@@ -4,7 +4,7 @@
 
 -> **Sébastien RICHARD** - Chef de projet
 
--> **Manar HAKOUME** – Conceptrice
+-> **Rayene HAKOUME** – Conceptrice
 
 -> **Lucas BONNIEUL** – Développeur
 
